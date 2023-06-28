@@ -1,3 +1,37 @@
+<!-- 
+<p align="center">
+  <a href="https://codepen.io/yellowflash2041">
+    <img src="https://img.shields.io/badge/Codepen-000000?logo=codepen"/>
+  </a>
+  <a href="https://www.freecodecamp.org/yellowflash2041">
+    <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&logo=freecodecamp"/>
+  </a>
+  <a href="https://join.skype.com/invite/wakJJYn0KpVO">
+    <img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?logo=Skype&logoColor=white"/>
+  </a>
+  <a href="https://t.me/yellowflash2041">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram"/>
+  </a>
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white"/>
+</p> 
+-->
+
+
+
+<p align="center">
+  <a href="https://Rasengan.yellowflash2041.repl.co">
+    <img src="https://user-images.githubusercontent.com/110062591/199664030-9e8cb78a-e462-4368-995a-a792a1c0ed69.gif" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://Belt.yellowflash2041.repl.co">
+    <img src="https://user-images.githubusercontent.com/110062591/199593953-c3fe6b61-9333-43b0-ace6-c64f3df47705.gif" />
+  </a>
+</p>
+
+<h2 align="center">🚀 Skills and Tools I Have Used and Learned</h2>
+
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original-wordmark.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original-wordmark.svg" width="40"/>
@@ -49,50 +83,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="40"/>
 </p>
-
-<!-- 
-<p align="center">
-  <a href="https://codepen.io/yellowflash2041">
-    <img src="https://img.shields.io/badge/Codepen-000000?logo=codepen"/>
-  </a>
-  <a href="https://www.freecodecamp.org/yellowflash2041">
-    <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&logo=freecodecamp"/>
-  </a>
-  <a href="https://join.skype.com/invite/wakJJYn0KpVO">
-    <img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?logo=Skype&logoColor=white"/>
-  </a>
-  <a href="https://t.me/yellowflash2041">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram"/>
-  </a>
-  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white"/>
-</p> 
--->
-
-<p align="center">
-  <a href="https://Belt.yellowflash2041.repl.co">
-    <img src="https://user-images.githubusercontent.com/110062591/199593953-c3fe6b61-9333-43b0-ace6-c64f3df47705.gif" />
-  </a>
-</p>
-
-<h2 align="center">🚀 Skills and Tools I Have Used and Learned</h2>
-
-<p align="center">
-  <a href="https://Rasengan.yellowflash2041.repl.co">
-    <img src="https://user-images.githubusercontent.com/110062591/199664030-9e8cb78a-e462-4368-995a-a792a1c0ed69.gif" />
-  </a>
-</p>
-
-
-### Hi there 👋
-
-<!--
-**Honest0/Honest0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
-
-#### - 🔭 I’m currently working on freelancer
-#### - 🌱 I’m currently learning Ruby on rails
-#### - 🤔 I’m looking for help with clients
-#### - 💬 Ask me about Honest (live:.cid.be8c91da16a53293) (skype)
 
 

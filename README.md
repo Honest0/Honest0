@@ -50,6 +50,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="40"/>
 </p>
 
+<!-- 
 <p align="center">
   <a href="https://codepen.io/yellowflash2041">
     <img src="https://img.shields.io/badge/Codepen-000000?logo=codepen"/>
@@ -64,7 +65,8 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram"/>
   </a>
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white"/>
-</p>
+</p> 
+-->
 
 <p align="center">
   <a href="https://Belt.yellowflash2041.repl.co">

@@ -1,3 +1,8 @@
+<div align="center">
+  <h2>🏆 Github Profile Trophy 🏆</h2>  
+  <img alig src="https://github-profile-trophy.vercel.app/?username=phanatagama&no-bg=true&no-frame=true&theme=onedark&column=8" />
+</div>
+
 <div align='center' width='100%'>
   <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Honest0&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
   <a width='50%' href="https://github.com/Honest0?tab=achievements">
